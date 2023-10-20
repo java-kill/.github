@@ -13,9 +13,9 @@ Date|Contents|류승연|권동휘|박상연|이성훈|
 |3회차| Chapter 03 ||✅|||
 |4회차| Chapter 04 ||✅|||
 |5회차| Chapter 05 ||✅|||
-|6회차| Chapter 06 ||✅|||
-|7회차| Chapter 07 ||✅|||
-|8회차| Chapter 08 ||✅|||
-|9회차| Chapter 09 ||✅|||
-|10회차| Chapter 10 ||✅|||
-|11회차| Chapter 11 ||✅|||
+|6회차| Chapter 06 |||||
+|7회차| Chapter 07 |||||
+|8회차| Chapter 08 |||||
+|9회차| Chapter 09 |||||
+|10회차| Chapter 10 |||||
+|11회차| Chapter 11 |||||
