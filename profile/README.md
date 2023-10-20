@@ -12,4 +12,10 @@ Date|Contents|류승연|권동휘|박상연|이성훈|
 |2회차| Chapter 02 |[✅](https://github.com/java-kill/seungyeon-java/blob/main/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/ch02.%20%EB%B3%80%EC%88%98.md)|[✅](https://github.com/java-kill/donghui/blob/main/ch2.md)|||
 |3회차| Chapter 03 ||✅|||
 |4회차| Chapter 04 ||✅|||
-|5회차| Chapter 05 |||||
+|5회차| Chapter 05 ||✅|||
+|6회차| Chapter 06 ||✅|||
+|7회차| Chapter 07 ||✅|||
+|8회차| Chapter 08 ||✅|||
+|9회차| Chapter 09 ||✅|||
+|10회차| Chapter 10 ||✅|||
+|11회차| Chapter 11 ||✅|||
